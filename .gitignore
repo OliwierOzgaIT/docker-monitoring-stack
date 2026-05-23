@@ -1,0 +1,4 @@
+.env
+*_data/
+*.log
+INTERVIEW_PREP.md
